@@ -23,7 +23,7 @@ Foram realizadas análises mensais de leads, vendas, receita, conversão e ticke
 
 O dashboard apresenta a evolução mensal de leads, vendas, receita, conversão e ticket médio, além das vendas por estado, marca e loja e das visitas por dia da semana.
 
-<img src="dashboard.png" width="800">
+<img src="dashboard.png" width="1000">
 
 ## Insights
 
