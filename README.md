@@ -1,8 +1,6 @@
 # Dashboard de Acompanhamento de Vendas
 
-Este projeto analise os dados de vendas de carros para acompanhar a evolução dos principais indicadores comerciais e entender como as vendas estão distribuídas por estado, marca e loja.
-
-Este projeto analisa dados de vendas de carros com o objetivo de acompanhar a evolução das vendas, receita, conversão e ticket médio, além de identificar como as vendas estão distribuídas por estado, marca e loja.
+Este projeto analisa dados de vendas de carros para acompanhar a evolução dos principais indicadores comerciais e entender como as vendas estão distribuídas por estado, marca e loja.
 
 ## Dados utilizados
 
@@ -27,8 +25,8 @@ O dashboard apresenta a evolução mensal de leads, vendas, receita, conversão 
 
 ## Insights
 
-- Leads e vendas apresentaram crescimento ao longo do período analisado
-- A taxa de conversão chegou a 20% em agosto de 2021
-- A receita mensal atingiu R$ 68,274 milhões em agosto de 2021
-- São Paulo apresentou o maior número de vendas em agosto de 2021
-- Fiat foi a marca com maior número de vendas em agosto de 2021
+- Leads e vendas apresentaram crescimento ao longo do período analisado.
+- A taxa de conversão chegou a 20% em agosto de 2021.
+- A receita mensal atingiu R$ 68,274 milhões em agosto de 2021.
+- São Paulo apresentou o maior número de vendas em agosto de 2021.
+- Fiat foi a marca com maior número de vendas em agosto de 2021.
